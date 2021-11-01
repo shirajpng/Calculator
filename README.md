@@ -9,3 +9,5 @@ simple calculations
 # Features
 1. Add
 2. Subtract (new)
+3. Multiply
+4. Divide
