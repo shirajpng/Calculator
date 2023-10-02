@@ -1,0 +1,12 @@
+Currency table.
+- currency
+- code
+- created_at
+- updated_at
+
+Bank Table.
+- name
+- name_code
+- status
+- created_at
+- updated_at
