@@ -10,3 +10,16 @@ Bank Table.
 - status
 - created_at
 - updated_at
+
+exchange rate table
+- bank_id
+- from_currency
+- rate
+- to_currency
+
+Transaction Table
+- currency_in
+- amount_in
+- currency_out
+- amount_out
+- rate
