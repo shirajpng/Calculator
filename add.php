@@ -1,6 +1,3 @@
 <?php
-$a = $_GET['a'];
-$b = $_GET['b'];
-$c = $a + $b;
-echo $c;
+echo $_GET['a'] + $_GET['b'];
 ?>
