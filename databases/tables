@@ -16,6 +16,8 @@ exchange rate table
 - from_currency
 - rate
 - to_currency
+- created_at
+- updated_at
 
 Transaction Table
 - currency_in
@@ -23,3 +25,7 @@ Transaction Table
 - currency_out
 - amount_out
 - rate
+- created_at
+- updated_at
+
+
